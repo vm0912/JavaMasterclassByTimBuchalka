@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="series">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../SeriesCustomModule/out/artifacts/SeriesCustomModule_jar/SeriesCustomModule.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
